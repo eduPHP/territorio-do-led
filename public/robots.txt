@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://territoriodoled.com.br/sitemap.xml
