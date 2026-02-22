@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 md:px-8 pb-12 flex flex-col md:flex-row items-center md:items-start justify-between gap-12">
         
         <div className="flex flex-col items-center md:items-start text-center md:text-left gap-6">
-          <img src="/logo.png" alt="Território do Led" className="h-12 w-auto opacity-90 filter brightness-110" />
+          <img src="/logo.svg" alt="Território do Led" className="h-12 w-auto opacity-90 filter brightness-110" />
           <p className="font-body text-text-muted tracking-[0.2em] uppercase text-sm">
             Seja luz onde estiver!
           </p>
